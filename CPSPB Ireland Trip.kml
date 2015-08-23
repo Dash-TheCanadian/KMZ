@@ -1,0 +1,1001 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CPSPB Ireland Trip</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Belfast</name>
+			<Placemark>
+				<name>Days Hotel Belfast City Centre</name>
+				<description><![CDATA[description: <br>Type: Stay]]></description>
+				<styleUrl>#icon-1037</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Stay</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.935917,54.592868,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Crown Liquor Saloon</name>
+				<description><![CDATA[description: http://www.nicholsonspubs.co.uk/restaurants/scotlandandnorthernireland/thecrownliquorsaloonbelfast/findus<br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.nicholsonspubs.co.uk/restaurants/scotlandandnorthernireland/thecrownliquorsaloonbelfast/findus</value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.934168,54.59469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Robinsons</name>
+				<description><![CDATA[description: <br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.934307,54.594877,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Duke Of York</name>
+				<description><![CDATA[description: http://www.dukeofyorkbelfast.com/<br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.dukeofyorkbelfast.com/</value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.927462,54.601885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The John Hewitt Bar</name>
+				<description><![CDATA[description: http://www.thejohnhewitt.com/<br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.thejohnhewitt.com/</value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.928578,54.601965,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Belfast City Hall</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.93024,54.596511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Victoria Square Shopping Centre</name>
+				<description><![CDATA[description: <br>Type: Shop]]></description>
+				<styleUrl>#icon-1101</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Shop</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.9257749999999305,54.598091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kitchen Bar</name>
+				<description><![CDATA[description: <br>Type: Eat]]></description>
+				<styleUrl>#icon-1085</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Eat</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.92455700000005,54.59853900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Botanic Inn</name>
+				<description><![CDATA[description: http://www.thebotanicinn.com/<br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.thebotanicinn.com/</value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.938492,54.580979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Queen's University Belfast</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.934049,54.584409,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Laverys</name>
+				<description><![CDATA[description: http://www.laverysbelfast.com/<br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.laverysbelfast.com/</value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.934497,54.589011,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Visit Belfast</name>
+				<description><![CDATA[description: http://www.visit-belfast.com/<br>Type: Info]]></description>
+				<styleUrl>#icon-1199</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.visit-belfast.com/</value>
+					</Data>
+					<Data name='Type'>
+						<value>Info</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.930879,54.597366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Albert Memorial Clock</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.924411999999961,54.600855,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CastleCourt Shopping Centre</name>
+				<description><![CDATA[description: <br>Type: Shop]]></description>
+				<styleUrl>#icon-1101</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Shop</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.9317,54.600981,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St Anne's Cathedral</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.928531000000001,54.602857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ulster Museum</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.935357,54.582309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Belfast Botanical Gardens</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.930521,54.581157,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fisherwick Presbyterian Church</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.937787,54.579823,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grand Opera House</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.934995,54.595372,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Titanic Belfast</name>
+				<description><![CDATA[description: http://www.titanicbelfast.com/<br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.titanicbelfast.com/</value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.909708,54.60811300000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bigfish</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.921672,54.601488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SSE Arena Belfast</name>
+				<description><![CDATA[description: <br>Type: Play]]></description>
+				<styleUrl>#icon-1293</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Play</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.914228,54.603643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stormont Estate</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.837619,54.596534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crumlin Road Gaol</name>
+				<description><![CDATA[description: http://www.crumlinroadgaol.com/<br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.crumlinroadgaol.com/</value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.942365,54.608956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Methodist College</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.9402,54.5834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Royal Ulster Rifles Museum</name>
+				<description><![CDATA[description: http://www.armymuseums.org.uk/<br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>http://www.armymuseums.org.uk/</value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.92747,54.600941,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nope</name>
+				<description><![CDATA[description: Bad people live here.<br>Type: Nope]]></description>
+				<styleUrl>#poly-DB4436-2-71</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Bad people live here.</value>
+					</Data>
+					<Data name='Type'>
+						<value>Nope</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-5.925600499999999,54.5919833,0.0 -5.925021,54.5904353,0.0 -5.921823999999999,54.5833916,0.0 -5.9208155,54.5836527,0.0 -5.919742600000001,54.5845729,0.0 -5.9195709,54.58653760000001,0.0 -5.9198284,54.5878307,0.0 -5.9207296,54.5888502,0.0 -5.9211159,54.5899692,0.0 -5.9202147,54.5912374,0.0 -5.917940100000001,54.59277900000001,0.0 -5.9154081,54.5942957,0.0 -5.9140348,54.5950665,0.0 -5.9144425,54.595576200000004,0.0 -5.922961199999999,54.5951908,0.0 -5.923841,54.5949297,0.0 -5.925600499999999,54.5919833,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Nope</name>
+				<description><![CDATA[description: Bad people live here.<br>Type: Nope]]></description>
+				<styleUrl>#poly-DB4436-2-71</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Bad people live here.</value>
+					</Data>
+					<Data name='Type'>
+						<value>Nope</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-5.9186268,54.6018535,0.0 -5.9191632,54.60102079999999,0.0 -5.919356300000001,54.599554000000005,0.0 -5.9186912000000005,54.5987833,0.0 -5.916974500000001,54.598199099999995,0.0 -5.9141207,54.5978511,0.0 -5.912210899999999,54.596856599999995,0.0 -5.9116101,54.5961977,0.0 -5.9084558,54.59593670000001,0.0 -5.9056234,54.5954146,0.0 -5.901632300000001,54.5957378,0.0 -5.8963108,54.5972047,0.0 -5.8936501,54.5980748,0.0 -5.8901739,54.5991935,0.0 -5.888414400000001,54.59936760000001,0.0 -5.8878136,54.5997653,0.0 -5.888586,54.603394800000004,0.0 -5.8881569,54.6042648,0.0 -5.891761799999999,54.60317100000001,0.0 -5.898885700000001,54.6021518,0.0 -5.9041643,54.601903300000004,0.0 -5.9082413,54.6012818,0.0 -5.914163599999999,54.6009586,0.0 -5.9179831,54.6015304,0.0 -5.9186268,54.6018535,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Nope</name>
+				<description><![CDATA[description: <br>Type: Nope]]></description>
+				<styleUrl>#poly-DB4436-2-71</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Nope</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-5.915536900000001,54.6081672,0.0 -5.9093571,54.612417199999996,0.0 -5.9201288,54.617362500000006,0.0 -5.9204292,54.6155236,0.0 -5.9204721,54.613634999999995,0.0 -5.920600900000001,54.6118207,0.0 -5.921073,54.6096833,0.0 -5.9227037000000005,54.6082666,0.0 -5.923690799999999,54.60642729999999,0.0 -5.922918299999999,54.6046128,0.0 -5.9209871000000005,54.603345,0.0 -5.9200001,54.6042896,0.0 -5.9201288,54.6047122,0.0 -5.915536900000001,54.6081672,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Nope</name>
+				<description><![CDATA[description: <br>Type: Nope]]></description>
+				<styleUrl>#poly-DB4436-2-71</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Nope</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-5.9698677,54.5676333,0.0 -5.960083,54.573007,0.0 -5.953559899999999,54.5774348,0.0 -5.9479809,54.5822103,0.0 -5.944375999999999,54.5841004,0.0 -5.9406853,54.58653760000001,0.0 -5.936479599999999,54.5884275,0.0 -5.9370804,54.5898946,0.0 -5.9375525,54.5914363,0.0 -5.9366083000000005,54.59280390000001,0.0 -5.9381103,54.5958496,0.0 -5.9349346,54.5960113,0.0 -5.935342299999999,54.5983358,0.0 -5.9364152,54.5994421,0.0 -5.9359861,54.600536,0.0 -5.935857300000001,54.601430900000004,0.0 -5.9332609000000005,54.6012631,0.0 -5.9326923,54.6016266,0.0 -5.9320646,54.6023677,0.0 -5.9316542,54.60225350000001,0.0 -5.9302246,54.60361840000001,0.0 -5.928518800000001,54.60519680000001,0.0 -5.9262496,54.6044419,0.0 -5.9254369,54.603589,0.0 -5.9250218,54.602661,0.0 -5.9240703,54.6041443,0.0 -5.9248247,54.6053107,0.0 -5.924871,54.6070114,0.0 -5.924645700000001,54.6079559,0.0 -5.9241978,54.60856799999999,0.0 -5.9236425,54.60909920000001,0.0 -5.9239483,54.6107023,0.0 -5.925579099999999,54.6139332,0.0 -5.9323597,54.615871600000006,0.0 -5.9413719,54.6200462,0.0 -5.965576199999999,54.618406199999995,0.0 -6.0028267,54.585891,0.0 -5.9698677,54.5676333,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>St George's Market</name>
+				<description><![CDATA[description: <br>Type: Shop]]></description>
+				<styleUrl>#icon-1101</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Shop</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.921964,54.595537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Victoria Square Gazebo</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.924179,54.5984415,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Comic Book Guys</name>
+				<description><![CDATA[description: www.comicbookguys.co.uk<br>Type: Shop]]></description>
+				<styleUrl>#icon-1101</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>www.comicbookguys.co.uk</value>
+					</Data>
+					<Data name='Type'>
+						<value>Shop</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.934402,54.596318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dublin Castle</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.267428,53.342886,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dublin Airport</name>
+				<description><![CDATA[description: <br>Type: Fly]]></description>
+				<styleUrl>#icon-1417</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Fly</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.24991,53.426448,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Dublin</name>
+			<Placemark>
+				<name>Staycity</name>
+				<description><![CDATA[description: <br>Type: Stay]]></description>
+				<styleUrl>#icon-1037</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Stay</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.277331,53.344337,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guinness Storehouse</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.286709000000001,53.341874,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Temple Bar</name>
+				<description><![CDATA[description: $$$$$<br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>$$$$$</value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.264172,53.345475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Trinity College Dublin</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.254572,53.343794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The National Wax Museum Plus</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.261216,53.345153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Bankers</name>
+				<description><![CDATA[description: <br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.262443,53.343971,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Bank on College Green</name>
+				<description><![CDATA[description: <br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.26156,53.344184,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Mercantile Hotel</name>
+				<description><![CDATA[description: <br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.263905,53.344046000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Temple Bar Food Market</name>
+				<description><![CDATA[description: <br>Type: Shop]]></description>
+				<styleUrl>#icon-1101</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Shop</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.265347,53.345001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>O'Connell Monument</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.259332,53.347702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>James Larkin Statue</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.259948,53.349087,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Spire</name>
+				<description><![CDATA[description: <br>Type: POI]]></description>
+				<styleUrl>#icon-993</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>POI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.260212,53.349834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Celt</name>
+				<description><![CDATA[description: <br>Type: Pub]]></description>
+				<styleUrl>#icon-1071</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Pub</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.254867999999988,53.35057,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ilac Shopping Centre</name>
+				<description><![CDATA[description: <br>Type: Shop]]></description>
+				<styleUrl>#icon-1101</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Shop</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.264629,53.3498,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jervis Shopping Centre</name>
+				<description><![CDATA[description: <br>Type: Shop]]></description>
+				<styleUrl>#icon-1101</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Shop</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.265673,53.348184,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St Patrick's Cathedral</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.271477,53.339515,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Christ Church Cathedral</name>
+				<description><![CDATA[description: <br>Type: History]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>History</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.27106,53.343513,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Old Storehouse</name>
+				<description><![CDATA[description: <br>Type: Eat]]></description>
+				<styleUrl>#icon-1085</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Eat</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.262696,53.345173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Merrion Square</name>
+				<description><![CDATA[description: <br>Type: Play]]></description>
+				<styleUrl>#icon-1293</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Type'>
+						<value>Play</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.249165,53.339658,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1071'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1071-biz-pub.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1085'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1101'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1101-biz-supermarket.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1239'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1239-poi-civic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1293'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1293-poi-music.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='poly-DB4436-2-71-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>473644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-DB4436-2-71-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>473644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-2-71'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-2-71-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-2-71-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
